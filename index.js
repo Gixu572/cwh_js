@@ -18,5 +18,6 @@ function marksCheck(totalMarks) {
         console.log("First Division");
     }
 }
+let m = document.getElementById("result");
 console.log(marksCheck(700));
 // console.log(sum(10, 8));
