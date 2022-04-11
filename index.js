@@ -19,5 +19,8 @@ function marksCheck(totalMarks) {
     }
 }
 let m = document.getElementById("result");
+let b = document.getElementById("meow");
+b.onclick(console.log("Clicked Me")); 
+
 console.log(marksCheck(700));
 // console.log(sum(10, 8));
