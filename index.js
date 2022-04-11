@@ -20,7 +20,16 @@ function marksCheck(totalMarks) {
 }
 let m = document.getElementById("result");
 let b = document.getElementById("meow");
-b.onclick(console.log("Clicked Me")); 
+// b.onclick(console.log("Clicked Me"));
+let clicked = 0;
+function onpush(event){
+console.log("Clicked");
+clicked = clicked + 1;
+console.log(clicked);
+} 
 
-console.log(marksCheck(700));
+let a = document.getElementById("counter");
+a.innerText<("Clicked " +clicked +" Times");
+
+// console.log(marksCheck(700));
 // console.log(sum(10, 8));
