@@ -29,7 +29,7 @@ console.log(clicked);
 } 
 
 let a = document.getElementById("counter");
-a.innerText<("Clicked " +clicked +" Times");
+// a.innerText<("Clicked " +clicked +" Times");
 
 // console.log(marksCheck(700));
 // console.log(sum(10, 8));
