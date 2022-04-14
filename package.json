@@ -1,0 +1,22 @@
+{
+  "name": "cwh_js",
+  "version": "1.0.0",
+  "description": "Meow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gixu572/cwh_js.git"
+  },
+  "keywords": [
+    "meow"
+  ],
+  "author": "Gixu572",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gixu572/cwh_js/issues"
+  },
+  "homepage": "https://github.com/Gixu572/cwh_js#readme"
+}
